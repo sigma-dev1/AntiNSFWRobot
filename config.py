@@ -9,4 +9,4 @@ class Config(object):
     DB_HOST = os.getenv("66.118.245.28")
     DB_USER = os.getenv("root")
     DB_PASSWORD = os.getenv("tHR16SZyr81n0z6GFx")
-    DB_NAME = os.getenv("Alevps")
+    DB_NAME = os.getenv("vps")
